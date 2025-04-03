@@ -6,3 +6,5 @@ let hi = 'hello';
 function test (){
     
 }
+
+let test_1 = 'new test';
