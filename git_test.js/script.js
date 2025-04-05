@@ -8,3 +8,4 @@ function test (){
 }
 
 let test_1 = 'new test';
+console.log(test_1);
